@@ -1,0 +1,39 @@
+.h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    color: darkblue;
+    font-family: 'times';
+    padding: 25px;
+    background-color: aqua;
+}
+
+.body {
+    background-color: bisque;
+}
+
+.redbox1 
+{
+    padding: 0.5em;
+    height: 200px;
+    width:200px ;
+    border:  red;
+}
+
+.redbox2 
+{
+    padding: 0.5em;
+    float: center;
+    height: 200px;
+    width:200px ;
+    border:  blue;
+    
+}
+
+.redbox3 {
+    padding: 0.5em;
+    float: right;
+    height: 200px;
+    width:200px ;
+    border: red;
+}
